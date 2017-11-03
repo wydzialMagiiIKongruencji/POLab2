@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1508871555 source:p:\pozad2cb\list.cpp
+
+1508871440 p:\pozad2cb\list.h
+	"List.h"
+	"ListElement.h"
+
+1508866256 p:\pozad2cb\listelement.h
+	"List.h"
+
+1508873721 source:p:\pozad2cb\main.cpp
+	<iostream>
+	<cstdio>
+
+1508871558 source:p:\pozad2cb\listelement.cpp
+
